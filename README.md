@@ -1,6 +1,6 @@
 # Smart Budget Tracker 💰
 
-Full Stack project to track expenses and generate insights.
+Project to track expenses and generate insights.
 
 ## Features
 - Add expenses
